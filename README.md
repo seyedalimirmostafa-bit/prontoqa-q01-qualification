@@ -6,7 +6,12 @@
 **Study:** PrOntoQA Q01 (frozen 10 October 2026; retrospective audit 11 October 2026)  
 **Status:** Public technical research note; **not peer reviewed**. Substantial AI assistance is disclosed.
 
-> **RC3 verified:** Both published files match the corrected RC3 release, with author spelling **SeyedAli Mirmostafa**. The file sizes and Git blob fingerprints were checked against the locally verified RC3 files. This is a public, non-peer-reviewed technical note; no Zenodo DOI has been assigned.
+> **RC3 verified and archived:** Both GitHub files match the corrected RC3 release with author spelling **SeyedAli Mirmostafa**. The file sizes and Git blob fingerprints were checked against the locally verified RC3 files. This is a public, non-peer-reviewed technical note archived on Zenodo as version 1.0.0 on 12 October 2026.
+
+**DOI (version 1.0.0):** [10.5281/zenodo.23319434](https://doi.org/10.5281/zenodo.23319434)  
+**Zenodo record:** [zenodo.org/records/23319434](https://zenodo.org/records/23319434)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23319434.svg)](https://doi.org/10.5281/zenodo.23319434)
 
 ## Publication files
 
