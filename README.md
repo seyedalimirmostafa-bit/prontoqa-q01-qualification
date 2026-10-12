@@ -3,6 +3,7 @@
 **Finite generator capacity and citation-local scoring**
 
 **Author:** SeyedAli Mirmostafa  
+**ORCID:** [0009-0008-6940-0930](https://orcid.org/0009-0008-6940-0930)  
 **Study:** PrOntoQA Q01 (frozen 10 October 2026; retrospective audit 11 October 2026)  
 **Status:** Public technical research note; **not peer reviewed**. Substantial AI assistance is disclosed.
 
