@@ -2,23 +2,23 @@
 
 **Finite generator capacity and citation-local scoring**
 
-**Author:** Seyed Ali Mirmostafa  
+**Author:** SeyedAli Mirmostafa  
 **Study:** PrOntoQA Q01 (frozen 10 October 2026; retrospective audit 11 October 2026)  
 **Status:** Public technical research note; **not peer reviewed**. Substantial AI assistance is disclosed.
 
-> **Release upload in progress:** The approved PDF and evidence ZIP have not yet been uploaded to this repository. The links below will work only after both approved files are added. Until then, this is an incomplete public release.
+> **RC3 attribution correction pending:** The files currently in the repository are from an older release. New RC3 files correcting the author spelling to **SeyedAli Mirmostafa** are prepared, but have not yet been uploaded. Do not cite the repository as the finalized RC3 release until both files match the checksums below.
 
 ## Publication files
 
 - [Research note — PDF](PrOntoQA_Q01_Public_Note.pdf) — four-page technical note.
 - [Reproducibility and evidence archive — ZIP](PrOntoQA_Q01_Public_Evidence.zip) — frozen records, failed attempts, code, saved reviews, attribution, licenses and validation instructions.
 
-The *approved RC2 versions* must match these SHA-256 checksums exactly:
+The *corrected RC3 versions* must match these SHA-256 checksums exactly:
 
 | File | SHA-256 |
 | --- | --- |
-| `PrOntoQA_Q01_Public_Note.pdf` | `e70fbe3700b57c5d3fd495e82c02626842a957ef4348fce9772747ae970d3cfc` |
-| `PrOntoQA_Q01_Public_Evidence.zip` | `c65503b0664f37cc6061835b1c1b28a23b279199ad3be0f38a56fb67a13341c0` |
+| `PrOntoQA_Q01_Public_Note.pdf` | `e27713fea96dff7cabb88393cdc50cbeef4c6ba1101ade255477e9396c7479f6` |
+| `PrOntoQA_Q01_Public_Evidence.zip` | `66b32e0085085ea6a2190c47b0aba805e2e7f4207b621376a9521d2c2b75c53f` |
 
 ## Summary
 
