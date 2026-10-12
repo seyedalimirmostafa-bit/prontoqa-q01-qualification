@@ -6,14 +6,14 @@
 **Study:** PrOntoQA Q01 (frozen 10 October 2026; retrospective audit 11 October 2026)  
 **Status:** Public technical research note; **not peer reviewed**. Substantial AI assistance is disclosed.
 
-> **RC3 attribution correction pending:** The files currently in the repository are from an older release. New RC3 files correcting the author spelling to **SeyedAli Mirmostafa** are prepared, but have not yet been uploaded. Do not cite the repository as the finalized RC3 release until both files match the checksums below.
+> **RC3 verified:** Both published files match the corrected RC3 release, with author spelling **SeyedAli Mirmostafa**. The file sizes and Git blob fingerprints were checked against the locally verified RC3 files. This is a public, non-peer-reviewed technical note; no Zenodo DOI has been assigned.
 
 ## Publication files
 
 - [Research note — PDF](PrOntoQA_Q01_Public_Note.pdf) — four-page technical note.
 - [Reproducibility and evidence archive — ZIP](PrOntoQA_Q01_Public_Evidence.zip) — frozen records, failed attempts, code, saved reviews, attribution, licenses and validation instructions.
 
-The *corrected RC3 versions* must match these SHA-256 checksums exactly:
+Published RC3 file checksums (SHA-256):
 
 | File | SHA-256 |
 | --- | --- |
